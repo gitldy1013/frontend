@@ -3,7 +3,7 @@ beautiful-frontend
 
 ## 前端技术
 
-   >* 我前段技能比较low... @流浪诗人 有时间可以先看看这个 [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin)
+   >* [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin)
 
 技术 | 说明 | 地址
 ----|----|----
